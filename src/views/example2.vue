@@ -47,7 +47,6 @@ export default {
 
         };
     }
-
     this.p5Canvas = new P5(sketch, 'p5Canvas');
   },
   unmounted () {
